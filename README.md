@@ -182,7 +182,7 @@ A digital signature is created by hashing a message and then encrypting the dige
 
 # 9. Source
 
-• Fireship.io Cryptography Video: https://www.youtube.com/watch?v=NmM9HA2MQGI
+• Fireship.io Cryptography Video: [https://www.youtube.com/watch?v=NmM9HA2MQGI](https://youtu.be/NuyzuNBFWxQ?si=AbtuvdjpuwMGOtxy)
 
 
 
